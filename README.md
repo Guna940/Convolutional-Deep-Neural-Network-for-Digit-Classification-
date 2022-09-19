@@ -16,7 +16,7 @@ The dataset that is being used here is the MNIST digits classification dataset. 
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![Screenshot (34)](https://user-images.githubusercontent.com/89703145/191071581-47c55959-6614-4c3b-a181-aaf52f5aa83c.png)
 
 ## DESIGN STEPS
 
